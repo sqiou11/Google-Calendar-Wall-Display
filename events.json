@@ -1,0 +1,631 @@
+{
+    "kind": "calendar#events", 
+    "defaultReminders": [
+        {
+            "minutes": 30, 
+            "method": "popup"
+        }
+    ], 
+    "items": [
+        {
+            "status": "confirmed", 
+            "kind": "calendar#event", 
+            "end": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T10:50:00-06:00"
+            }, 
+            "description": "ADB - Fleck\nCRN: 48263", 
+            "created": "1900-01-01T12:00:00.000Z", 
+            "iCalUID": "Ical6fe85a73cb82a715c89efa4382d4974e", 
+            "colorId": "11", 
+            "htmlLink": "https://www.google.com/calendar/event?eid=Xzk1aG0ycjFtY3BpamdkYjE2c3BtNm9obzY5Z2plYzlsY2NzM2lwYjZjNHEzNmUxaWNncTNpZHBrY2tfMjAxNTAxMjBUMTYwMDAwWiBzcWlvdTExQG0", 
+            "sequence": 0, 
+            "updated": "2015-02-28T09:18:50.198Z", 
+            "summary": "CS 173 - Discrete Structures ADB", 
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20150507T065900Z;BYDAY=MO"
+            ], 
+            "start": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T10:00:00-06:00"
+            }, 
+            "etag": "\"2850230260396000\"", 
+            "location": "Siebel Center for Comp Sci 1214 ", 
+            "reminders": {
+                "useDefault": true
+            }, 
+            "organizer": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "creator": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "id": "_95hm2r1mcpijgdb16spm6oho69gjec9lccs3ipb6c4q36e1icgq3idpkck"
+        }, 
+        {
+            "status": "confirmed", 
+            "kind": "calendar#event", 
+            "end": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T11:50:00-06:00"
+            }, 
+            "description": "AL1 - Heeren\nCRN: 31208", 
+            "created": "1900-01-01T12:00:00.000Z", 
+            "iCalUID": "Ical5e78d93027446bb86f15c5c5a33e7b6c", 
+            "colorId": "4", 
+            "htmlLink": "https://www.google.com/calendar/event?eid=Xzk1aG0ycjFsY2tyamdwMXA2Y28zNGRwazZncjY0b2hvNnBqMzJkYjM2bGhqYW85ajZkaWplb2htY2NfMjAxNTAxMjBUMTcwMDAwWiBzcWlvdTExQG0", 
+            "sequence": 0, 
+            "updated": "2015-02-28T09:20:37.629Z", 
+            "summary": "CS 225 - Data Structures AL1", 
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20150507T065900Z;BYDAY=MO,WE,FR"
+            ], 
+            "start": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T11:00:00-06:00"
+            }, 
+            "etag": "\"2850230475258000\"", 
+            "location": "Electrical & Computer Eng Bldg 1002", 
+            "reminders": {
+                "useDefault": true
+            }, 
+            "organizer": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "creator": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "id": "_95hm2r1lckrjgp1p6co34dpk6gr64oho6pj32db36lhjao9j6dijeohmcc"
+        }, 
+        {
+            "status": "confirmed", 
+            "kind": "calendar#event", 
+            "end": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T14:50:00-06:00"
+            }, 
+            "description": "AL3 - Malkiewich\nCRN: 61545", 
+            "created": "1900-01-01T12:00:00.000Z", 
+            "iCalUID": "Icale164df51abe0872b53e716be232d0589", 
+            "colorId": "10", 
+            "htmlLink": "https://www.google.com/calendar/event?eid=Xzk1aG0ycjM1NjRyMzhwMzY2a29tMm9qNTYwczNlY2oyNmtwbWFkcGg2cGg2YWNoajY5aTMwZDlvNzRfMjAxNTAxMjBUMjAwMDAwWiBzcWlvdTExQG0", 
+            "sequence": 0, 
+            "updated": "2015-02-28T09:20:46.004Z", 
+            "summary": "MATH 415 - Applied Linear Algebra AL3", 
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20150507T065900Z;BYDAY=MO,WE,FR"
+            ], 
+            "start": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T14:00:00-06:00"
+            }, 
+            "etag": "\"2850230492008000\"", 
+            "location": "Mumford Hall 103 ", 
+            "reminders": {
+                "useDefault": true
+            }, 
+            "organizer": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "creator": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "id": "_95hm2r3564r38p366kom2oj560s3ecj26kpmadph6ph6achj69i30d9o74"
+        }, 
+        {
+            "status": "confirmed", 
+            "kind": "calendar#event", 
+            "end": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T17:50:00-06:00"
+            }, 
+            "description": "L1R - Wadleigh\nCRN: 38101", 
+            "created": "1900-01-01T12:00:00.000Z", 
+            "iCalUID": "Ical3ff05ad42b854d2babcf328bc9d86291", 
+            "colorId": "7", 
+            "htmlLink": "https://www.google.com/calendar/event?eid=Xzk1aG0ycjFqY3BqMzBkYjFjZ3EzNG9obzZrcTY4Y2oyYzVoNjZwaGo2OHM2NG9wcGNnczNjY2hwNjRfMjAxNTAxMjBUMjIwMDAwWiBzcWlvdTExQG0", 
+            "sequence": 0, 
+            "updated": "2015-02-28T09:21:54.356Z", 
+            "summary": "PHYS 212 - University Physics: Elec & Mag L1R", 
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20150507T210000Z;BYDAY=MO"
+            ], 
+            "start": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T16:00:00-06:00"
+            }, 
+            "etag": "\"2850230628712000\"", 
+            "location": "Loomis Laboratory 262", 
+            "reminders": {
+                "useDefault": true
+            }, 
+            "organizer": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "creator": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "id": "_95hm2r1jcpj30db1cgq34oho6kq68cj2c5h66phj68s64oppcgs3cchp64"
+        }, 
+        {
+            "status": "confirmed", 
+            "kind": "calendar#event", 
+            "end": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T11:50:00-06:00"
+            }, 
+            "description": "ADS - Modami\nCRN: 37962", 
+            "created": "1900-01-01T12:00:00.000Z", 
+            "iCalUID": "Ical15f9f682b7040c562c717572eb12b789", 
+            "colorId": "10", 
+            "htmlLink": "https://www.google.com/calendar/event?eid=Xzk1aG0ycjFoNmxqM2lwaG03MHA2NGRwZzZnbzY2ZDltNjloamVjOW42a3JqNHBiMjY0cDY0ZHBvNzRfMjAxNTAxMjBUMTcwMDAwWiBzcWlvdTExQG0", 
+            "sequence": 0, 
+            "updated": "2015-02-28T09:22:44.481Z", 
+            "summary": "MATH 415 - Applied Linear Algebra ADS", 
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20150507T065900Z;BYDAY=TU"
+            ], 
+            "start": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T11:00:00-06:00"
+            }, 
+            "etag": "\"2850230728962000\"", 
+            "location": "Altgeld Hall 445 ", 
+            "reminders": {
+                "useDefault": true
+            }, 
+            "organizer": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "creator": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "id": "_95hm2r1h6lj3iphm70p64dpg6go66d9m69hjec9n6krj4pb264p64dpo74"
+        }, 
+        {
+            "status": "confirmed", 
+            "kind": "calendar#event", 
+            "end": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T14:50:00-06:00"
+            }, 
+            "description": "A1 - Stelzer\nCRN: 38029", 
+            "created": "1900-01-01T12:00:00.000Z", 
+            "iCalUID": "Ical9f11e19b1380bc1833ea0582f79dc57a", 
+            "colorId": "7", 
+            "htmlLink": "https://www.google.com/calendar/event?eid=Xzk1aG0ycjFwY29vajJwOWg3NWgzMmNwbzYxaDY2YzlvNmNwbWFvOWc2a3MzNHBobjc1aTY2ZDluYzRfMjAxNTAxMjBUMjAwMDAwWiBzcWlvdTExQG0", 
+            "sequence": 0, 
+            "updated": "2015-02-28T09:22:54.317Z", 
+            "summary": "PHYS 212 - University Physics: Elec & Mag A1", 
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20150507T065900Z;BYDAY=TU,TH"
+            ], 
+            "start": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T14:00:00-06:00"
+            }, 
+            "etag": "\"2850230748634000\"", 
+            "location": "Loomis Laboratory 141 ", 
+            "reminders": {
+                "useDefault": true
+            }, 
+            "organizer": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "creator": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "id": "_95hm2r1pcooj2p9h75h32cpo61h66c9o6cpmao9g6ks34phn75i66d9nc4"
+        }, 
+        {
+            "status": "confirmed", 
+            "kind": "calendar#event", 
+            "end": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T17:50:00-06:00"
+            }, 
+            "description": "D3R - Petrica\nCRN: 38067", 
+            "created": "1900-01-01T12:00:00.000Z", 
+            "iCalUID": "Ical8aa7f9587515f4c1c6fe4be1c88d5519", 
+            "colorId": "7", 
+            "htmlLink": "https://www.google.com/calendar/event?eid=Xzk1aG0ycjFvYzVnamVwaHA2a3MzZWQ5aDZsajM4b3BoY2NyNmNwOWtjOWlqMm9wbzcxaTNhZDloNzRfMjAxNTAxMjBUMjIwMDAwWiBzcWlvdTExQG0", 
+            "sequence": 0, 
+            "updated": "2015-02-28T09:22:59.726Z", 
+            "summary": "PHYS 212 - University Physics: Elec & Mag D3R", 
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20150507T065900Z;BYDAY=WE"
+            ], 
+            "start": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T16:00:00-06:00"
+            }, 
+            "etag": "\"2850230759452000\"", 
+            "location": "Loomis Laboratory 139 ", 
+            "reminders": {
+                "useDefault": true
+            }, 
+            "organizer": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "creator": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "id": "_95hm2r1oc5gjephp6ks3ed9h6lj38ophccr6cp9kc9ij2opo71i3ad9h74"
+        }, 
+        {
+            "status": "confirmed", 
+            "kind": "calendar#event", 
+            "end": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T16:20:00-06:00"
+            }, 
+            "description": "AL1 - Vazquez\nCRN: 33193", 
+            "created": "1900-01-01T12:00:00.000Z", 
+            "iCalUID": "Icalf0d3b64976cfb965fa2283bd73fd2426", 
+            "colorId": "3", 
+            "htmlLink": "https://www.google.com/calendar/event?eid=Xzk1aG0ycjM2NjFpMzZvaG02Z3NqZWRqM2NwaDNpZGhsY3BnajRjaG82ZGg2OGRwamNwaTM0ZDFpNm9fMjAxNTAxMjBUMjEzMDAwWiBzcWlvdTExQG0", 
+            "sequence": 0, 
+            "updated": "2015-02-28T09:23:08.035Z", 
+            "summary": "ECON 102 - Microeconomic Principles AL1", 
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20150507T065900Z;BYDAY=TU,TH"
+            ], 
+            "start": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T15:30:00-06:00"
+            }, 
+            "etag": "\"2850230776070000\"", 
+            "location": "Foellinger Auditorium AUD ", 
+            "reminders": {
+                "useDefault": true
+            }, 
+            "organizer": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "creator": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "id": "_95hm2r3661i36ohm6gsjedj3cph3idhlcpgj4cho6dh68dpjcpi34d1i6o"
+        }, 
+        {
+            "status": "confirmed", 
+            "kind": "calendar#event", 
+            "end": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T15:50:00-06:00"
+            }, 
+            "description": "AQF - Vazquez\nCRN: 33188", 
+            "created": "1900-01-01T12:00:00.000Z", 
+            "iCalUID": "Ical3ddad30260f936ff9210ee95f4fe94d6", 
+            "colorId": "3", 
+            "htmlLink": "https://www.google.com/calendar/event?eid=Xzk1aG0ycjFqY2hpNjJwMWo2MHAzY2MzNjc0cGpjcGo2NzRwMzJjMzVja3NqYXBoa2NwaWppZDM0Nm9fMjAxNTAxMjBUMjEwMDAwWiBzcWlvdTExQG0", 
+            "sequence": 0, 
+            "updated": "2015-02-28T09:23:16.107Z", 
+            "summary": "ECON 102 - Microeconomic Principles AQF", 
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20150507T065900Z;BYDAY=FR"
+            ], 
+            "start": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T15:00:00-06:00"
+            }, 
+            "etag": "\"2850230792214000\"", 
+            "location": "David Kinley Hall 209 ", 
+            "reminders": {
+                "useDefault": true
+            }, 
+            "organizer": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "creator": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "id": "_95hm2r1jchi62p1j60p3cc3674pjcpj674p32c35cksjaphkcpijid346o"
+        }, 
+        {
+            "status": "confirmed", 
+            "kind": "calendar#event", 
+            "end": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T12:50:00-06:00"
+            }, 
+            "description": "AYD - Heeren\nCRN: 31225", 
+            "created": "1900-01-01T12:00:00.000Z", 
+            "iCalUID": "Ical37be0717a79bdf060c935b653d65d55c", 
+            "colorId": "4", 
+            "htmlLink": "https://www.google.com/calendar/event?eid=Xzk1aG0ycjFqNnRoNmFjMW42NHJtMmRwcGM5aTZjYzFtNjFoamljcGxjOHIzYWNyNDZvcW04ZDlsY2NfMjAxNTAxMjBUMTcwMDAwWiBzcWlvdTExQG0", 
+            "sequence": 0, 
+            "updated": "2015-02-28T09:23:22.991Z", 
+            "summary": "CS 225 - Data Structures AYD", 
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20150507T065900Z;BYDAY=TH"
+            ], 
+            "start": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T11:00:00-06:00"
+            }, 
+            "etag": "\"2850230805982000\"", 
+            "location": "Siebel Center for Comp Sci 0224 ", 
+            "reminders": {
+                "useDefault": true
+            }, 
+            "organizer": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "creator": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "id": "_95hm2r1j6th6ac1n64rm2dppc9i6cc1m61hjicplc8r3acr46oqm8d9lcc"
+        }, 
+        {
+            "status": "confirmed", 
+            "kind": "calendar#event", 
+            "end": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T10:45:00-06:00"
+            }, 
+            "description": "AL1 - Fleck\nCRN: 39311", 
+            "created": "1900-01-01T12:00:00.000Z", 
+            "iCalUID": "Icalf39a5e6f82d827a2082aa3ade7d67509", 
+            "colorId": "11", 
+            "htmlLink": "https://www.google.com/calendar/event?eid=Xzk1aG0ycjM2NmNzbTJkYjU2cGozZ2NqNDcwcDNlbzlpNjBzMzRvYjE2ZGdtOHA5bmNncjNlZDlnNzRfMjAxNTAxMjBUMTUzMDAwWiBzcWlvdTExQG0", 
+            "sequence": 0, 
+            "updated": "2015-02-28T09:23:31.308Z", 
+            "summary": "CS 173 - Discrete Structures AL1", 
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20150507T065900Z;BYDAY=TU,TH"
+            ], 
+            "start": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-20T09:30:00-06:00"
+            }, 
+            "etag": "\"2850230822616000\"", 
+            "location": "Electrical & Computer Eng Bldg 1002 ", 
+            "reminders": {
+                "useDefault": true
+            }, 
+            "organizer": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "creator": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "id": "_95hm2r366csm2db56pj3gcj470p3eo9i60s34ob16dgm8p9ncgr3ed9g74"
+        }, 
+        {
+            "status": "confirmed", 
+            "kind": "calendar#event", 
+            "end": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-21T10:50:00-06:00"
+            }, 
+            "created": "2015-01-20T18:24:01.000Z", 
+            "iCalUID": "85tmra3hbiiack49vfnmfhpurg@google.com", 
+            "colorId": "1", 
+            "htmlLink": "https://www.google.com/calendar/event?eid=ODV0bXJhM2hiaWlhY2s0OXZmbm1maHB1cmdfMjAxNTAxMjFUMTUwMDAwWiBzcWlvdTExQG0", 
+            "sequence": 0, 
+            "updated": "2015-02-28T09:23:39.472Z", 
+            "summary": "CS 125 - AYQ Course Assistant", 
+            "recurrence": [
+                "RRULE:FREQ=WEEKLY;UNTIL=20150506T140000Z;BYDAY=WE"
+            ], 
+            "start": {
+                "timeZone": "America/Chicago", 
+                "dateTime": "2015-01-21T09:00:00-06:00"
+            }, 
+            "etag": "\"2850230838944000\"", 
+            "location": "1103 Siebel Center", 
+            "reminders": {
+                "useDefault": true
+            }, 
+            "organizer": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "creator": {
+                "self": true, 
+                "displayName": "Steven Qiou", 
+                "email": "sqiou11@gmail.com"
+            }, 
+            "id": "85tmra3hbiiack49vfnmfhpurg"
+        }
+    ], 
+    "updated": "2015-02-28T09:23:39.472Z", 
+    "summary": "Schedule", 
+    "etag": "\"1425115419472000\"", 
+    "nextSyncToken": "CIDh3dKohMQCEIDh3dKohMQCGAU=", 
+    "timeZone": "America/Chicago", 
+    "accessRole": "owner"
+}{
+    "kind": "calendar#colors", 
+    "updated": "2012-02-14T00:00:00.000Z", 
+    "calendar": {
+        "24": {
+            "foreground": "#1d1d1d", 
+            "background": "#a47ae2"
+        }, 
+        "20": {
+            "foreground": "#1d1d1d", 
+            "background": "#cabdbf"
+        }, 
+        "21": {
+            "foreground": "#1d1d1d", 
+            "background": "#cca6ac"
+        }, 
+        "22": {
+            "foreground": "#1d1d1d", 
+            "background": "#f691b2"
+        }, 
+        "23": {
+            "foreground": "#1d1d1d", 
+            "background": "#cd74e6"
+        }, 
+        "1": {
+            "foreground": "#1d1d1d", 
+            "background": "#ac725e"
+        }, 
+        "3": {
+            "foreground": "#1d1d1d", 
+            "background": "#f83a22"
+        }, 
+        "2": {
+            "foreground": "#1d1d1d", 
+            "background": "#d06b64"
+        }, 
+        "5": {
+            "foreground": "#1d1d1d", 
+            "background": "#ff7537"
+        }, 
+        "4": {
+            "foreground": "#1d1d1d", 
+            "background": "#fa573c"
+        }, 
+        "7": {
+            "foreground": "#1d1d1d", 
+            "background": "#42d692"
+        }, 
+        "6": {
+            "foreground": "#1d1d1d", 
+            "background": "#ffad46"
+        }, 
+        "9": {
+            "foreground": "#1d1d1d", 
+            "background": "#7bd148"
+        }, 
+        "8": {
+            "foreground": "#1d1d1d", 
+            "background": "#16a765"
+        }, 
+        "11": {
+            "foreground": "#1d1d1d", 
+            "background": "#fbe983"
+        }, 
+        "10": {
+            "foreground": "#1d1d1d", 
+            "background": "#b3dc6c"
+        }, 
+        "13": {
+            "foreground": "#1d1d1d", 
+            "background": "#92e1c0"
+        }, 
+        "12": {
+            "foreground": "#1d1d1d", 
+            "background": "#fad165"
+        }, 
+        "15": {
+            "foreground": "#1d1d1d", 
+            "background": "#9fc6e7"
+        }, 
+        "14": {
+            "foreground": "#1d1d1d", 
+            "background": "#9fe1e7"
+        }, 
+        "17": {
+            "foreground": "#1d1d1d", 
+            "background": "#9a9cff"
+        }, 
+        "16": {
+            "foreground": "#1d1d1d", 
+            "background": "#4986e7"
+        }, 
+        "19": {
+            "foreground": "#1d1d1d", 
+            "background": "#c2c2c2"
+        }, 
+        "18": {
+            "foreground": "#1d1d1d", 
+            "background": "#b99aff"
+        }
+    }, 
+    "event": {
+        "11": {
+            "foreground": "#1d1d1d", 
+            "background": "#dc2127"
+        }, 
+        "10": {
+            "foreground": "#1d1d1d", 
+            "background": "#51b749"
+        }, 
+        "1": {
+            "foreground": "#1d1d1d", 
+            "background": "#a4bdfc"
+        }, 
+        "3": {
+            "foreground": "#1d1d1d", 
+            "background": "#dbadff"
+        }, 
+        "2": {
+            "foreground": "#1d1d1d", 
+            "background": "#7ae7bf"
+        }, 
+        "5": {
+            "foreground": "#1d1d1d", 
+            "background": "#fbd75b"
+        }, 
+        "4": {
+            "foreground": "#1d1d1d", 
+            "background": "#ff887c"
+        }, 
+        "7": {
+            "foreground": "#1d1d1d", 
+            "background": "#46d6db"
+        }, 
+        "6": {
+            "foreground": "#1d1d1d", 
+            "background": "#ffb878"
+        }, 
+        "9": {
+            "foreground": "#1d1d1d", 
+            "background": "#5484ed"
+        }, 
+        "8": {
+            "foreground": "#1d1d1d", 
+            "background": "#e1e1e1"
+        }
+    }
+}
